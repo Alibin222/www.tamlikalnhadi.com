@@ -7,48 +7,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## نبذة عننا :
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+انطلقت مؤسسة علي عمر عقيل النهدي للخدمات العقارية في مدينة جدة عام 2006 م
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+كمطورة و إدارة أملاك و مسوقة للمشاريع العقارية في المملكة العربية السعودية وهي إحدى الجهات الوطنية الرائدة في مجال العقار التي تقدم أفضل حلول التطوير العمراني والتسويق العقاري وحلول التمويل.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+ومع مرور الوقت نجحنا في أن تصبح إحدى أبرز شركات التطوير والتسويق العقاري و إدارة الأملاك  في المنطقة بوضع بصمتها المميزة على أرقى وأحدث أنماط المعيشة المعاصرة, مرسخة مكانتها باعتبارها المطور والمسوق الرائد للعقارات المميزة مندمجة في تحقيق رؤية المملكة 2030 في رفع مستوى جودة الحياة للمواطن في المملكة العربية السعودية.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+نتشرف دوماًً في خدمتكم بتواصل معنا عبر أيقونة تواصل معنا برسالة نصيحة وسوف يتم التواصل معكم خلال مدة 24 ساعة ... دمتم سالمين
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## رسالتنـا :
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+كالعمل على تحقيق الهدف الاسمى وهو كسب الثقة واتقان العمل 
+الوصول للقمه امر سهل لاكن الاستمرار في القمة هو أولى اهتماماتنا
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## الروؤيــة :
 
+كسب الثقة و اتقان العمل في  هذا المجال في المملكة العربية السعودية
+
+(https://tamlikalnahdi.com/).
+
+### مشاريع تحت الإنشاء :
+
+- **مشروع لؤلؤة الروضة - جدة - شارع إبراهيم الحلبي - طريق الأمير سعود الفيصل
+- **[مشـروع.جوهـرة.الرحاب]جدة - شارع عباس بن صديق - مع شارع نادي الأهلي بجوار مدرسة الأمير سعود بن عبدالمحسن الأبتدائية .
+- **[مشروع صقر قريش ] حي السلامة - جدة - شارع قريش 2234
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
